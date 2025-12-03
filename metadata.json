@@ -1,0 +1,7 @@
+{
+  "name": "SpeedyRun - Smart Errand Service",
+  "description": "A comprehensive O2O errand platform connecting users, riders, and merchants with AI-powered logistics.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
